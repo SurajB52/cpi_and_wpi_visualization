@@ -21,7 +21,7 @@ This GitHub repository contains two datasets: the Consumer Price Index (CPI) and
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Ensure you have Python and the required libraries installed.
+2. Ensure you have Python and the required libraries installed, use requirements.txt file.
 3. Run the Python files to explore visualizations, perform data analysis, and use the time series forecasting model.
 4. Access the interactive dashboard via Streamlit for a seamless data exploration experience.
 

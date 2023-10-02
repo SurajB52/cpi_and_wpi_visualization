@@ -72,7 +72,7 @@ def Trend_visualization():
     
 def correlation_plot():
     select_sector = st.sidebar.selectbox('Select Sector',['Rural','Urban','Rural+Urban'])
-#     selected_category = st.sidebar.selectbox('Select Commodities',commodities,default='General index')
+
     
     if select_sector == 'Rural':
         commodity_data = data_rural

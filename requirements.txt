@@ -8,3 +8,4 @@ yellowbrick
 scipy
 statsmodels
 keras
+tensorflow
